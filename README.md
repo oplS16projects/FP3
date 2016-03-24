@@ -1,7 +1,7 @@
 # FP3 - Team Declaration
 Due Friday, March 25, 2016.
 
-Team Members: (GitCauble, Ryan Cauble) ; ( , Cory )
+Team Members: (GitCauble, Ryan Cauble) ; ( , Cody )
 
 Team Name: (C&C Programming)
 
