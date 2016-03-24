@@ -3,7 +3,7 @@ Due Friday, March 25, 2016.
 
 Team Members: (GitCauble, Ryan Cauble) ; (Mulks , Cody Mulkern)
 
-Team Name: (C&C Programming)
+Team Name: (C&M Programming)
 
 Project Title: (Visual Data)
 
