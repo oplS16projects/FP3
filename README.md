@@ -1,6 +1,5 @@
 # FP3 - Team Declaration
-Due Friday, March 25, 2016.
-Once you have your team figured out, **make a single pull request** for your whole team describing:
+
 Team Members: Christian Everett   Github username: ChrisitanEverett
 
 Team name:
