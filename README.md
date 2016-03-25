@@ -19,3 +19,6 @@ When posting on the list, be sure to include:
 * when you will be able to meet to work on project
 
 To submit: make a pull request. One pull request for the whole team.
+
+Team Members: Sridhar Rangan and Behailu Tekletsadik
+
