@@ -1,5 +1,4 @@
 # FP3 - Team Declaration
-
 * Names: John Kuczynski (Chinook1) and Cullin Lam (kidculli)
 * Team Name: DataToGraphs
 * Project Title: Modeling Data with Graphs
