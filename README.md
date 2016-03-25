@@ -27,4 +27,10 @@ Our goal is currently to expand upon my [FP1](https://github.com/JDBJohnBrown/FP
 
 [Aurelas](https://github.com/Aurelas)
 
-Guess ***who*** is ***who*** (I'm Aurelas)
+Guess ***who*** is ***who*** (John Brown is definately Aurelas)
+
+
+
+#After Thoughts
+I can flesh this declaration out more if needed, but we've only just met today. We're still working on a concrete plan for a final project, and only settled on expanding my projects because it's the only idea either of us has proposed so far.
+
