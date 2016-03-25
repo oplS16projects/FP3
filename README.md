@@ -1,7 +1,7 @@
 # FP3 - Team Declaration
 Due Friday, March 25, 2016.
 
-Team Members: Josh Blanchette, Connor Finegan, Rob
+Team Members: Josh Blanchette, Connor Finegan, Rob (maybe)
 
 Team Name:  Chess Mates, or We Spent All Knight Coding
 
