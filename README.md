@@ -19,7 +19,7 @@ Our goal is currently to expand upon my [FP1](https://github.com/JDBJohnBrown/FP
 # Libraries
 * (net/url)
 * (2htdp/image)
-* (require 2htdp/universe)
+* (2htdp/universe)
 * more...
 
 #GitHub Accounts.
