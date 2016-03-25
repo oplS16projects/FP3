@@ -1,21 +1,21 @@
 # FP3 - Team Declaration
 Due Friday, March 25, 2016.
-Once you have your team figured out, **make a single pull request** for your whole team describing:
-* who's on it (using github usernames and real names)
-* a team name (for use in creating the group on github. Short and sweet.)
-* a project title (10 words or fewer, can be changed later)
-* a basic project concept
-* what libraries you plan on using, as a group
 
-Team rules:
-* All team members must be in the same course section
-* Teams of less than two members require explicit written permission
-* Teams of more than three people require explicit written permission
+Members of the Team:
+Rajia Abdelaziz (Rajiaxoxo)
+Jeremy Daigneau (Jdaigneau)
 
-In looking for the team, we welcome you to use the course mailing list.
-When posting on the list, be sure to include:
-* what you're interested in doing
-* what libraries you looked at for FP1 and FP2
-* when you will be able to meet to work on project
+Team Name:
+The Mathletes
 
-To submit: make a pull request. One pull request for the whole team.
+Project Title:
+Math Adventures
+
+Project Concept:
+Some of the smartest people still can't do basic arithmitic. Say goodbye to boring flashcards and hello to a new fun innovative way to learn basic addition, subtraction, multiplication and division! Our team is going to set out to create a game that makes learning fun. It will allow users to select a character and then move over tiles to collect a specific number of items that solve a basic arithmitic problem. Users will have to collect the correct number of items before a timer runs out. Every time the user solves a problem correctly they are awarded points!    
+
+Libraries We Plan to Use:
+* We plan on using the racket/draw library because it provides basic drawing tools. 
+* We also would like to use the racket/gui library because it provides GUI widgets such as windows, buttons, checkboxes and text fields.
+(A text field will be placed at the top of the screen to display the arithmitic problem). 
+* Lastly we would like to use the 2htdp/image and 2htdp/planetcute libraries. The image library is used for construction of basic images and the planet cute library provide images that are designed to be overlaid with each other to build scenes for use in games. 
