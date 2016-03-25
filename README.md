@@ -7,15 +7,11 @@ Once you have your team figured out, **make a single pull request** for your who
 * a basic project concept
 * what libraries you plan on using, as a group
 
-Team rules:
-* All team members must be in the same course section
-* Teams of less than two members require explicit written permission
-* Teams of more than three people require explicit written permission
-
-In looking for the team, we welcome you to use the course mailing list.
-When posting on the list, be sure to include:
-* what you're interested in doing
-* what libraries you looked at for FP1 and FP2
-* when you will be able to meet to work on project
-
-To submit: make a pull request. One pull request for the whole team.
+Team Lambdagenie
+Members: Yusuf Mulyo
+         Martin Rudzki
+Project title: Racket Fantasy
+We are planing to make a turn based game where two opposing teams take turns dealing damage to finish the other teams HP.
+Libraries planned to use:
+         2htdp
+         Other graphics libraries (TBA)
