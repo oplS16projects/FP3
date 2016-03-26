@@ -1,7 +1,7 @@
 # FP3 - Team Declaration
 
 ###Team Members: 
-Christian Everett (ChristianEverett)
+Christian Everett (ChristianEverett) <br>
 Rotana Nou (RotanaNou)
 
 ###Team name:
