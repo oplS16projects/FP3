@@ -1,21 +1,29 @@
-# FP3 - Team Declaration
-Due Friday, March 25, 2016.
-Once you have your team figured out, **make a single pull request** for your whole team describing:
-* who's on it (using github usernames and real names)
-* a team name (for use in creating the group on github. Short and sweet.)
-* a project title (10 words or fewer, can be changed later)
-* a basic project concept
-* what libraries you plan on using, as a group
+# Racket Weather
 
-Team rules:
-* All team members must be in the same course section
-* Teams of less than two members require explicit written permission
-* Teams of more than three people require explicit written permission
+Project Name: Racket Weather Visualization
 
-In looking for the team, we welcome you to use the course mailing list.
-When posting on the list, be sure to include:
-* what you're interested in doing
-* what libraries you looked at for FP1 and FP2
-* when you will be able to meet to work on project
+Team Members: Jason Downing, JT Shepple, Huy Huynh
 
-To submit: make a pull request. One pull request for the whole team.
+## GitHub usernames
+[Jason Downing - JasonD94](https://github.com/JasonD94),
+[JT Shepple - JohnShep](https://github.com/JohnShep),
+[Huy Huynh - HuyH0114](https://github.com/HuyH0114)
+
+## Project Concept:
+The idea behind our project is to combine various team members FP libraries into
+one final program. One member, Jason, created a small racket program that pulls
+down weather data from a Weather API called [OpenWeatherMap](http://openweathermap.org/).
+JT and Huy explored the racket turtle library and made various shapes. Our idea is
+to combine the weather data from OpenWeatherMap into some sort of visualization using
+drawing libraries in Racket, such as Racket Turtle or racket/draw. We may also play
+around with the Racket Graph library. Jason will work on the Weather API portion
+to gather data that can be fed into racket programs that JT and Huy will create,
+and these programs will create a visualization for the weather data collected.
+
+## Libraries
+Libraries we plan on using or investigating:
+[net/url](https://docs.racket-lang.org/net/url.html),
+[json](https://docs.racket-lang.org/json/),
+[racket turtle](https://docs.racket-lang.org/racket_turtle/index.html),
+[racket/draw](https://docs.racket-lang.org/draw/index.html),
+[racket graph](https://stchang.github.io/graph/graph.html)
