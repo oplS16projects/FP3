@@ -6,11 +6,9 @@ Team Members: Jason Downing, JT Shepple, Huy Huynh
 
 ## GitHub usernames
 
-[Jason Downing](https://github.com/JasonD94)
-
-[JT Shepple](https://github.com/JohnShep)
-
-[Huy Huynh](https://github.com/HuyH0114)
+[Jason Downing - JasonD94](https://github.com/JasonD94),
+[JT Shepple - JohnShep](https://github.com/JohnShep),
+[Huy Huynh - HuyH0114](https://github.com/HuyH0114)
 
 Project Concept:
 
@@ -23,7 +21,6 @@ drawing libraries in Racket, such as Racket Turtle or racket/draw. We may also p
 around with the Racket Graph library.
 
 Libraries we plan on using or investigating:
-
 [net/url](https://docs.racket-lang.org/net/url.html),
 [json](https://docs.racket-lang.org/json/),
 [racket turtle](https://docs.racket-lang.org/racket_turtle/index.html),
