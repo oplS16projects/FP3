@@ -16,7 +16,9 @@ down weather data from a Weather API called [OpenWeatherMap](http://openweatherm
 JT and Huy explored the racket turtle library and made various shapes. Our idea is
 to combine the weather data from OpenWeatherMap into some sort of visualization using
 drawing libraries in Racket, such as Racket Turtle or racket/draw. We may also play
-around with the Racket Graph library.
+around with the Racket Graph library. Jason will work on the Weather API portion
+to gather data that can be fed into racket programs that JT and Huy will create,
+and these programs will create a visualization for the weather data collected.
 
 ## Libraries
 Libraries we plan on using or investigating:
