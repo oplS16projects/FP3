@@ -2,6 +2,7 @@
 
 ###Team Members: 
 Christian Everett (ChristianEverett)
+Rotana Nou (RotanaNou)
 
 ###Team name:
 TBD
