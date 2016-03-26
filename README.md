@@ -1,7 +1,7 @@
 # FP3 - Team Declaration
 Due Friday, March 25, 2016
 
-#Team Name: HappyFeet
+Team Name: HappyFeet
 
 Members: Willis Hand (whand662) & Laura Lucaciu (LauraLucaciu)
 
