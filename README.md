@@ -8,9 +8,9 @@ Once you have your team figured out, **make a single pull request** for your who
 * what libraries you plan on using, as a group
 
 Team rules:
-* teams should be two people except under special circumstances
+* Teams should be two people except under special circumstances
 * All team members must be in the same course section
-* Teams of less than two members require explicit written permission
+* Teams of fewer than two members require explicit written permission
 * Teams of more than two people require explicit written permission
 
 In looking for the team, we welcome you to use the course mailing list.
