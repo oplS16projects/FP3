@@ -14,10 +14,17 @@ Using several libraries, the project will be to build a windowed language editor
 
 If this proves to hard the milestones will be adjusted accordingly and we may have to drop either the html rendering or the custom sound language.
 
+Potential breakdown of tasks amongst three people:
+* Implementing a gui
+* Parsing and storing html input (for milestone 1)
+* Interpreting and displaying html (for milestone 1)
+* Developing a sound and/or display syntax for the user input (for milestone 2)
+* Interpreting and displaying/visualizing/playing output (for milestone 2)
+
 Potential libraries:
 * racket/gui
 * html-parsing
 * browser
 * rsound
-* others to be determine
+* others to be determined
 
