@@ -1,24 +1,23 @@
-# FP3 - Team Declaration
-Due Friday, March 25, 2016.
-Once you have your team figured out, **make a single pull request** for your whole team describing:
-* who's on it (using github usernames and real names)
-* a team name (for use in creating the group on github. Short and sweet.)
-* a project title (10 words or fewer, can be changed later)
-* a basic project concept
-* what libraries you plan on using, as a group
+## Project idea: Sound Language interpreter
 
-Team rules:
-* Teams should be two people except under special circumstances
-* All team members must be in the same course section
-* Teams of fewer than two members require explicit written permission
-* Teams of more than two people require explicit written permission
+Who is in it:
+* John Kilgo github.com/john-kilgo
+* Tyler Bezuka github.com/tylerbezuka
+* Tony Ventura github.com/tventura1337
 
-In looking for the team, we welcome you to use the course mailing list.
-When posting on the list, be sure to include:
-* what you're interested in doing
-* what libraries you looked at for FP1 and FP2
-* when you will be able to meet to work on project
+Project concept:
 
-Please make sure to review the information at https://groups.google.com/d/msg/uml-opl-spr16/0bbtjSLWKvs/86A9IKxBHgAJ regarding how to develop a good project.
+Using several libraries, the project will be to build a windowed language editor. In one text input box will be the editable region, in the other will be a rendering of the inputted data.
 
-To submit: make a pull request. One pull request for the whole team.
+1. The first milestone will roughly be getting this to work with a simple html object.
+1. The second milestone will roughly be getting this to work with a sound library allowing the user to generate their own sounds via some sort of language we define (and a library like the rsound library).
+
+If this proves to hard the milestones will be adjusted accordingly and we may have to drop either the html rendering or the custom sound language.
+
+Potential libraries:
+* racket/gui
+* html-parsing
+* browser
+* rsound
+* others to be determine
+
