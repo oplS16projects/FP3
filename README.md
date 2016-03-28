@@ -1,6 +1,3 @@
-# FP3 - Team Declaration
-Due Friday, March 25, 2016.
-
 # Team Scratchket
 Who we are:
 Brian Thomas (jumpyhoof)
