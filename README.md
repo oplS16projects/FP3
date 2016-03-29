@@ -3,15 +3,16 @@ Due Friday, March 25, 2016.
 Once you have your team figured out, **make a single pull request** for your whole team describing:
 # Teammates 
 * Chhun Kim (chhunkim)
-* Aliyu Zakari (ABZaxxon)
 * Muhammed Khalid (mkhalid578)
 # Team Name (for use in creating the group on github. Short and sweet.)
-* CAMCrew 
+* MCCrew
 
-# Project Title (Still in the works)
-* EVIL HANGMAN w/RacketUI
-* We still need more discussion on this, but create a hangman game with a UI via RacketUI Library
-* RacketUI Library, Possibly DBM, and library that includes data structures and hash tables
+# Project Title Website Application
+* Web Application w/ User Interface (RacketUI Library)
+* We still need more discussion on this
+* RacketUI Library and web or html based racket libraries
+* Yes this seems extremely bland but we will come up with something that will 
+* provide eqaul work load for the two of us
 
 Team rules:
 * All team members must be in the same course section
