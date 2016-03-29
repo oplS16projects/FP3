@@ -1,11 +1,18 @@
 # FP3 - Team Declaration
 Due Friday, March 25, 2016.
 Once you have your team figured out, **make a single pull request** for your whole team describing:
-* who's on it (using github usernames and real names)
-* a team name (for use in creating the group on github. Short and sweet.)
-* a project title (10 words or fewer, can be changed later)
-* a basic project concept
-* what libraries you plan on using, as a group
+# Teammates 
+* Chhun Kim (chhunkim)
+* Muhammed Khalid (mkhalid578)
+# Team Name (for use in creating the group on github. Short and sweet.)
+* MCCrew
+
+# Project Title Website Application
+* Web Application w/ User Interface (RacketUI Library)
+* We still need more discussion on this
+* RacketUI Library and web or html based racket libraries
+* Yes this seems extremely bland but we will come up with something that will 
+* provide eqaul work load for the two of us
 
 Team rules:
 * Teams should be two people except under special circumstances
