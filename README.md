@@ -12,7 +12,7 @@ Team Name
 
 
 Project Title
-* Finding Code in Music. Title explanation: Rather than composing music through conventional songwriting techniques, we plan to compose music through algorithms.
+* Composing Music with Code
 
 
 Project Concept
