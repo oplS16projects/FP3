@@ -1,7 +1,6 @@
 # FP3 - Team Declaration
 
 Who's On it?
-* Our team is comprised of the following members:
       - George Mitwasi (georgemitwasi)
       - Alex Gribov (agribov)
       - Kevin Dibble (...)
