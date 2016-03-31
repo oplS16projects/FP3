@@ -1,9 +1,9 @@
 # FP3 - Team Declaration
 
 Who's On it?
-      - George Mitwasi (georgemitwasi)
-      - Alex Gribov (agribov)
-      - Kevin Dibble (...)
+* George Mitwasi (georgemitwasi)
+* Alex Gribov (agribov)
+* Kevin Dibble (...)
 
 Team Name
 * Our team name is pending... for now let's call it "Digital Bubblebath"
