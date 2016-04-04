@@ -6,4 +6,6 @@ Connor Emma (`connoremma`) & Evan O'Leary (`olearyevan`)
 ###Group Name:
 C.E. Graphics
 ###Project Title: A Basic Conceptual PowerPoint Using Racket
-The goal of the project is to use the Racket libraries `(slideshow)` and `(pict)` with the possibility of `(rsound)` and `(gui)`
+The goal of the project is to create a powerpoint outlining a brief history and future of space exploration.
+##Libraries:
+`(slideshow)` and `(pict)` with the possibility of `(rsound)` and `(gui)`
