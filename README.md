@@ -7,18 +7,20 @@ Once you have your team figured out, **make a single pull request** for your who
 * a basic project concept
 * what libraries you plan on using, as a group
 
-Team rules:
-* Teams should be two people except under special circumstances
-* All team members must be in the same course section
-* Teams of fewer than two members require explicit written permission
-* Teams of more than two people require explicit written permission
+TEAM: Crying Jordans
 
-In looking for the team, we welcome you to use the course mailing list.
-When posting on the list, be sure to include:
-* what you're interested in doing
-* what libraries you looked at for FP1 and FP2
-* when you will be able to meet to work on project
+A twitter app for the racket user. 
 
-Please make sure to review the information at https://groups.google.com/d/msg/uml-opl-spr16/0bbtjSLWKvs/86A9IKxBHgAJ regarding how to develop a good project.
+Members:
+* Nick Finocchiaro -github username: nickfinocchiaro
+* Harrison Dejardins-github username: HTdejardins
+
+Concept:
+A lightweight app that will allow a user to login to their twitter account, post tweets, retweet, and search tweets based on a hash tag. 
+
+We plan on interfacing with the twitter API and creating a gui that will allow a user to enter their login information in the gui to
+post, retweet, and search. 
+
+
 
 To submit: make a pull request. One pull request for the whole team.
