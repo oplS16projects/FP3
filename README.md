@@ -8,6 +8,7 @@ Once you have your team figured out, **make a single pull request** for your who
 * what libraries you plan on using, as a group
 
 TEAM: Crying Jordans
+
 A twitter app for the racket user. 
 
 Members:
