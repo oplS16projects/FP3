@@ -1,5 +1,5 @@
 # Team:
- * Name: IDea
+ * Name: SkraM
  
  * Members:
   * Dmitri Kheifets - @tetra-D
