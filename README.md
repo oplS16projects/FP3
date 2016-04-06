@@ -1,9 +1,9 @@
 # Team:
- * Name:  16A.D.
+ * Name: IDea
  
  * Members:
   * Dmitri Kheifets - @tetra-D
-  * Adam Contardo   - @acontardo93
+  * Ian Roberts   - @ia-n
   
 # Project: 
  * Title: SVG Editor  
